@@ -58,7 +58,7 @@
     }
     header h1 {
         font-size: 3em;
-        margin-bottom: 20px;
+        padding-bottom: 20px;
         text-shadow: 2px 2px 1px #063d1e;
     }
     nav {
